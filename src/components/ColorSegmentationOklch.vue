@@ -88,7 +88,7 @@
       </div>
     </div>
     <hr />
-    <div class="grid grid-cols-4 gap-2 mt-6">
+    <div class="grid grid-cols-6 gap-2 mt-6">
       <div
         v-for="color in filteredColors"
         :key="color.hex"
