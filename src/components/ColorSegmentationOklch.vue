@@ -231,11 +231,11 @@ const flagNames = {
   },
   isWarm: {
     label: 'Warm',
-    info: '(H >= 0 && H < 120) || H >= 330',
+    info: '(H >= 0 && H < 140) || H >= 340',
   },
   isCool: {
     label: 'Cool',
-    info: 'H >= 165 && H < 330',
+    info: 'H >= 140 && H < 330',
   },
 };
 
