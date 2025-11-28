@@ -2,43 +2,40 @@
 import ColorSegmentationOklch from './components/ColorSegmentationOklch.vue';
 
 const list = [
-  '#FF0000',
-  '#000080',
-  '#90EE90',
-  '#808080',
-  '#FF00FF',
-  '#8B4513',
-  '#FFD700',
-  '#00CED1',
-  '#FF6347',
-  '#4B0082',
-  '#F0E68C',
+  '#FCD4D4',
+  '#E54141',
+  '#721919',
+
+  '#FF9A4C',
+  '#F59314',
+  '#553710',
+
+  '#FBF3C0',
+  '#BEA81D',
+  '#4B4204',
+
+  '#DDEAD2',
+  '#5FAA23',
+  '#294B0C',
+
+  '#D2F3E9',
+  '#2FE5AE',
+  '#105440',
+
+  '#D8E2F3',
+  '#196AEB',
+  '#173565',
+
+  '#C49FFF',
+  '#721DFA',
+  '#35136C',
+
+  '#FBBFEE',
+  '#EC3BC5',
+  '#6D1159',
+
+  '#F9F9F9',
   '#242424',
-  '#E4F22B',
-  '#892ABC',
-  '#BC8AAC',
-  '#C4E2FF',
-  '#22DDAB',
-  '#FFA500',
-  '#F9C3A0',
-  '#FFB6C1',
-  '#FFD1DC',
-  '#E0BBE4',
-  '#D4A5A5',
-  '#FFDAB9',
-  '#FFEFD5',
-  '#FFE4B5',
-  '#FFFACD',
-  '#E6E6FA',
-  '#D8BFD8',
-  '#DDA0DD',
-  '#EEE8AA',
-  '#81612E',
-  '#74BBAA',
-  '#9CF5E1',
-  '#B8E6B8',
-  '#0000FF',
-  '#FFFF00',
 ];
 </script>
 

@@ -254,14 +254,6 @@ const typeNames = {
     label: 'Pastel',
     info: 'L > 0.8 && L < 0.95 && C > 0.02 && C < 0.12',
   },
-  isEarthy: {
-    label: 'Earty',
-    info: 'H >= 30 && H <= 90 && C >= 0.04 && C <= 0.14 && L >= 0.3 && L <= 0.6',
-  },
-  isMuted: {
-    label: 'Muted',
-    info: 'C >= 0.03 && C <= 0.1 && L >= 0.4 && L <= 0.7',
-  },
 };
 
 const selectedBrightness = ref<string[]>([]);
