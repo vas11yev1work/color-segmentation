@@ -74,7 +74,7 @@ export class ColorInfo {
 
     if (c < 0.02) return false;
 
-    return (h >= 0 && h < 140) || h >= 330;
+    return (h >= 0 && h < 140) || h >= 340;
   }
 
   get isCool(): boolean {
