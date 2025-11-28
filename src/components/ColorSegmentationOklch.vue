@@ -162,6 +162,7 @@ const filteredColors = computed(() => {
 function resetFilters() {
   selectedColors.value = [];
   selectedTypes.value = [];
+  selectedBrightness.value = [];
   selectedFlags.value = [];
 }
 
